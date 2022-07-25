@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pray/Ros/kobuki_ws/devel/setup.sh
